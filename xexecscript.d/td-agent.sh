@@ -3,6 +3,9 @@
 # requires:
 #  bash
 #
+# Installing Fluentd Using rpm Package
+# - http://docs.fluentd.org/articles/install-by-rpm
+#
 set -e
 
 declare chroot_dir=$1
